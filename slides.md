@@ -29,20 +29,19 @@ Voy 2 startet zuerst, wird aber später von Voy 1 überholt sodass die reihenfol
 
 
 ## Jupiter
-<!-- .element: class="stretch" data-src="pictures/VulcanIo.jpg" -->
-![](pictures/VulcanIo.jpg)
+![](pictures/VulcanIo.jpg) <!-- .element: class="stretch" -->
 Note:
 Erste Beobachtung vulkanischer aktivität außerhalb der Erde
 
 
 ## Saturn
-![](pictures/VulcanIo.jpg)
+![](pictures/saturn.gif) <!-- .element: class="stretch" -->
 Note:
-Erste Beobachtung vulkanischer aktivität außerhalb der Erde
+Hauptsächlich relativ langweilige Informationen über die Atmosphäre, Bewegungen, etc. deshalb lieber Bild
 
 
 ## "Pale Blue Dot"
-![](pictures/Pale_Blue_Dot.png)
+![](pictures/Pale_Blue_Dot.png) <!-- .element: class="stretch" -->
 Note:
 6 Millarden km entfernt sieht man die Erde nur noch als einen kleinen Punkt
 TODO: vergrößerte Aufnahme zeigen
@@ -72,6 +71,28 @@ Tonnehmer beigelegt
 
 
 ## New Horizon
+Note:
+Pluto nahezu unerforscht, da knapp 6 Mrd km entfernt
+
+
+![](pictures/hubble-pluto.jpg)
+Note:
+Bild vom Hubble Space Telescope, einem der besten Teleskope
+Problem: große Entfernung, sehr klein, sogar kleiner als Erdmond
+kein Planet sondern Zwergplanet, größtes Objekt im Kuiper Gürtel, entstand in der Jugend des Sonnensystems, deshalb für Wissenschaft sehr interessant
+
+
+<!-- .slide: data-background-iframe="https://solarsystem.nasa.gov/gltf_embed/2363/?fs=true" data-background-interactive-->
+![](pictures/New_Horizons_spacecraft_model_1.png) <!-- .element: style="height:30%" -->
+Note:
+2003 auf Drängen von "Pluto Underground" (Gruppe von jungen Wissenschaftlern mit Interesse an Pluto) Beginn des Baus
+Ziel: <10Jahre bis Erreichen von pluto --> schnellstes Raumschiff (16.26 km/s)
+-> muss sehr leicht sein, nur so groß wie ein Piano und 478 kg
+durch vorbeifliegen an Jupiter Geschwindigkeitserhöhung um 20%, Verkürzung der Flugzeit um 3 Jahre
+
+
+Note:
+nach einem perfekten Start und ca. 9,5 jähriger Reise (auf der es keine aufgaben gibt) ist die Sonde 9 Tage von Pluto entfernt, plötzlich bricht die Kommunikation ab
 
 
 
