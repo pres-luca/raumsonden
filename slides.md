@@ -4,10 +4,27 @@
 
 
 ## Pioneer
+### Ziel: Grundlagenforschung <!-- .element: class="fragment"-->
+Note:
+Grundlagenforschung, weniger wissenschaftliche Ziele, sondern Entwicklung der Technik
 
 
-### Fakten
-- bla
+- Pioneer 0 - 2 <!-- .element: class="fragment"-->
+- Pioneer 3 & 4 <!-- .element: class="fragment"-->
+- Pioneer P-1, P-3, P-30, P-31 <!-- .element: class="fragment"-->
+- Pioneer 5 <!-- .element: class="fragment"-->
+- Pioneer 6 - 9 & E <!-- .element: class="fragment"-->
+- Pioneer 10 & 11 <!-- .element: class="fragment"-->
+- Pioneer-Venus 1 & 2 <!-- .element: class="fragment"-->
+Note:
+- US-Luftwaffe, Ziel:Mond, erster Start 1958, alle gescheitert
+- neue Sonden, 4 passiert Mond, Lunik jedoch zuvor
+- Neu gegründete Nasa, alles Fehlschläge -> Geheimhaltung
+- Sonnenumlaufbahn zwischen Erde und Venus, zumindest Teilerfolg
+- 1960 - 65 keine Weiterenwicklung des Programms, Ranger und Mariner haben Vorrang
+- Erkundung der Sonne, alle außer E erfolgreich
+- Untersuchung Jupiters nach Durchdringen des Asteroidengürtels, Pioneer 11 zusätzlich Saturn
+- Pioneer-Venus 1 Kartographierung der Venus, 2 Absetzung von Tochtersonden zur Erforschung der Atmosphäre, eine hat Aufprall auf Venus erstaunlicherweise überlebt 
 
 
 <!-- .slide: data-background-iframe="http://spacecrafts3d.org/models/pioneer.html" data-background-interactive-->
@@ -116,7 +133,8 @@ Eisgebirge größer als Rocky Mountains, Planet kleiner als Erdmond
 
 <img class="stretch" src="pictures/pluto_volcano.jpg"/>
 Note:
-Zeigt wharscheinlich Eisvulkan, Sensation weil Vulkan Wärme braucht, Wissenschaft dachte bisher Pluto zu kalt weil Entfernung, dachte nichts verändert sich
+Zeigt wharscheinlich Eisvulkan, Sensation weil Vulkan Wärme braucht, Wissenschaft dachte bisher Pluto zu kalt weil Entfernung, dachte nichts verändert sich, noch viele andere spannende Entdeckungen, zu wenig Zeit
+
 
 
 ## Quellen
