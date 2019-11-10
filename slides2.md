@@ -12,13 +12,19 @@ Pioneer ist erstes Programm auf meiner Liste und auch das ältestes
 Grundlagenforschung, weniger wissenschaftliche Ziele, sondern Entwicklung der Technik
 
 
-- Pioneer 0 - 2 <!-- .element: class="fragment"-->
-- Pioneer 3 & 4 <!-- .element: class="fragment"-->
-- Pioneer P-1, P-3, P-30, P-31 <!-- .element: class="fragment"-->
-- Pioneer 5 <!-- .element: class="fragment"-->
-- Pioneer 6 - 9 & E <!-- .element: class="fragment"-->
-- Pioneer 10 & 11 <!-- .element: class="fragment"-->
-- Pioneer-Venus 1 & 2 <!-- .element: class="fragment"-->
+- Pioneer 0 - 2 <!-- .element: class="fragment" data-fragment-index="1"-->
+- Pioneer 3 & 4 <!-- .element: class="fragment" data-fragment-index="3"-->
+- Pioneer P-1, P-3, P-30, P-31 <!-- .element: class="fragment" data-fragment-index="5"-->
+- Pioneer 5 <!-- .element: class="fragment" data-fragment-index="7"-->
+- Pioneer 6 - 9 & E <!-- .element: class="fragment" data-fragment-index="9"-->
+- Pioneer 10 & 11 <!-- .element: class="fragment" data-fragment-index="11"-->
+- Pioneer-Venus 1 & 2 <!-- .element: class="fragment" data-fragment-index="12"-->
+<img class="stretch fragment fade-in-then-out" src="pictures/Pioneer0.png" data-fragment-index="2"/>
+<img class="stretch fragment fade-in-then-out" src="pictures/Pioneer4.gif" data-fragment-index="4"/>
+<img class="stretch fragment fade-in-then-out" src="pictures/pioneer-p3.jpg" data-fragment-index="6"/>
+<img class="stretch fragment fade-in-then-out" src="pictures/Pioneer-5.jpg" data-fragment-index="8"/>
+<img class="stretch fragment fade-in-then-out" src="pictures/Pioneer6.jpg" data-fragment-index="10"/>
+<img class="stretch fragment fade-in-then-out" src="pictures/pioneer-venus.jpg" data-fragment-index="13"/>
 Note:
 Nur wenig Zeit, deshalb alle nur kurz vorstellen
 - 0-2: US-Luftwaffe, Ziel:Mond, erster Start 1958, alle gescheitert
